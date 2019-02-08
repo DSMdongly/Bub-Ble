@@ -1,0 +1,5 @@
+pytest==3.6.2
+pytest-flask-sqlalchemy==1.0.0
+pytest-mock==1.10.1
+factory-boy==2.11.1
+Faker==1.0.2
